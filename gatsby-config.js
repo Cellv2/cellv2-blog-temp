@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Cellv2's Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Rich Armstrong`,
+      summary: `who aspires to the purity of the blessed machine (I mean likes making useful tools, normally with JavaScript).`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A temporary blog while I slowly work on a primary Gatsby blog.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `NYI`,
     },
   },
   plugins: [
@@ -60,8 +60,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Cellv2's Blog`,
+        short_name: `Cellv2Blog`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
