@@ -3,7 +3,7 @@ module.exports = {
     title: `Cellv2's Blog`,
     author: {
       name: `Rich Armstrong`,
-      summary: `who aspires to the purity of the blessed machine (I mean likes making useful tools, normally with JavaScript).`,
+      summary: `who aspires to the purity of the blessed machine (he means he likes making useful tools, normally with TypeScript).`,
     },
     description: `A temporary blog while I slowly work on a primary Gatsby blog.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
